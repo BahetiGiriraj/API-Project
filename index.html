@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Project</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>API Fun Project</h1>
+
+    <div class="card">
+        <h2>Some Cat Facts</h2>
+        <p id="cats">Click the button to see a new cat fact!</p>
+        <button class="btncat">Get Fact</button>
+    </div>
+
+    <div class="card">
+        <h2>Dog Images</h2>
+        <img src="" id="Dogs">
+        <button class="btndog">Get Image</button>
+    </div>
+
+    <div class="card">
+        <h2>Random Jokes</h2>
+        <p class="set">Click the button for a joke!</p>
+        <p class="line"></p>
+        <button onclick="getJokes()">Get a New Joke</button>
+    </div>
+    <footer>
+        <p>Made by <strong>Giriraj Baheti</strong> 🚀</p>
+    
+    <script src="https://cdn.jsdelivr.net/npm/axios@1.6.7/dist/axios.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
