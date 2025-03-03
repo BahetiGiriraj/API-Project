@@ -10,7 +10,7 @@ A fun web project that fetches **cat facts, random dog images, and jokes** using
 - ⚡ **Fast & Responsive:** Uses **Axios** for efficient API calls and works smoothly on all devices.  
 
 ## 🖼️ Preview  
-
+![Project Screenshot](screenshot.png)
 
 
 ## 🛠️ Technologies Used  
