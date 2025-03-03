@@ -18,3 +18,6 @@ A fun web project that fetches **cat facts, random dog images, and jokes** using
 - **CSS** → Styling and layout (gradient, buttons, cards, etc.)  
 - **JavaScript** → Fetching data from APIs & DOM manipulation  
 - **Axios** → Handling API requests easily  
+
+
+https://bahetigiriraj.github.io/API-Project/
